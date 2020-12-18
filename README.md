@@ -231,3 +231,8 @@ npm install --save svg-cards
 In July 2018, [Thomas Linard](https://github.com/thlinard) improved the SVG
 files by making them compliant with the [SVG
 specification](https://www.w3.org/TR/SVG/).
+
+### French Version, moved small card Icon
+
+In december 2020, [snowgoon88](https://github.com/snowgoon88) added some tools to generate "french" cards, one by one, where the icon for the suit color is directly left of the card value. This cards are generated from 'svg-cards.svg' (with french V, D and R instead of J, Q, K) and can be exported to PNG using './to_png.sh'.
+
